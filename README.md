@@ -5,7 +5,7 @@ I am Student at **KMU** and study **Computer Science**
 ## About Me :
 
 -  Game Development (PyGame, GML Technology, Unity)
--  Web Development (Frontend, Backend(Python, Go, JS))
+-  Web Development (Frontend, Backend(Python, Go, NodeJS))
 -  Problem Solving with algorithms and DS
 -  More interested with OpenSource projects 
 
