@@ -1,6 +1,5 @@
 ### Hi there 👋
-### I am Barkhayot
-I am Student at **KMU** and study **Computer Science** 
+### I am Barkhayot Software Engineer
 
 ## About Me :
 
